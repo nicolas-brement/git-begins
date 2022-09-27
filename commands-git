@@ -3,3 +3,5 @@ git add
 git commmit -m
 git push
 git pull
+git branch + le nom de la nouvelle branche
+git checkout + la branche sur laquelle on veux passer
